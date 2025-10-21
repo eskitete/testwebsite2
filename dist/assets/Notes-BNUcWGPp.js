@@ -1,0 +1,1 @@
+import{j as e}from"./index-Zo24_iUt.js";function s(){return e.jsxs("div",{children:[e.jsx("h1",{className:"font-heading text-3xl",children:"Notes"}),e.jsx("p",{className:"mt-2 text-sm text-gray-600",children:"Placeholder for blog/article SEO pages."})]})}export{s as default};

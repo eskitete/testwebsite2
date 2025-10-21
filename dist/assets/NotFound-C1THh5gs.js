@@ -1,0 +1,1 @@
+import{j as e}from"./index-Zo24_iUt.js";function t(){return e.jsxs("div",{className:"text-center py-16",children:[e.jsx("h1",{className:"font-heading text-4xl",children:"Page not found"}),e.jsxs("p",{className:"mt-4",children:["If something looks wrong, ",e.jsx("a",{href:"/contact",children:"report an issue"}),"."]})]})}export{t as default};
