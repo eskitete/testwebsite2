@@ -1,0 +1,71 @@
+# Node & package managers
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/*
+!.yarn/releases
+!- .yarn/plugins
+!.yarn/sdks
+!.yarn/patches
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+.esbuild/
+.cache/
+tmp/
+temp/
+
+# Vite / bundlers
+.vite/
+.rollup.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Tests / coverage
+coverage/
+.nyc_output/
+
+# Logs
+logs/
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Env files (keep example)
+.env
+.env.local
+.env.*.local
+.env.*
+!.env.example
+
+# Editors / IDEs
+.idea/
+.fleet/
+.vs/
+.history/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+*.tmp
+*.bak
+*.orig
+*.swp
+*.swo
+*.tgz
+*.lcov
